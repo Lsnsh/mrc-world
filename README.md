@@ -13,4 +13,4 @@ git clone git@github.com:Lsnsh/mrc-world.git -b nestjs-schematics/nest-cli-gener
    1. What transport layer do you use? `REST API`
    2. Would you like to generate CRUD entry points? `No`
 3. open `./src/car/car.module.ts`
-4. see the error
+4. see the error ![Insert `,`](image.png)
